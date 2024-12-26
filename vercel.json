@@ -4,6 +4,6 @@
     { "src": "mac.py", "use": "@vercel/python" }
   ],
   "routes": [
-    { "src": "/api/lookup", "dest": "/api/lookup" }
+    { "src": "/api/lookup", "dest": "/mac.py" }
   ]
 }
