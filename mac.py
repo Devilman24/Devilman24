@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, jsonify
 import requests
 
 app = Flask(__name__)
@@ -11,15 +11,12 @@ def get_mac_vendor(mac_address):
     else:
         return "Constructeur inconnu"
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-@app.route('/lookup', methods=['POST'])
+@app.route('/api/lookup', methods=['POST'])
 def lookup():
-    mac_address = request.form['mac_address']
+    data = request.get_json()
+    mac_address = data.get('mac_address')
     vendor = get_mac_vendor(mac_address)
-    return render_template('result.html', mac_address=mac_address, vendor=vendor)
+    return jsonify({'mac_address': mac_address, 'vendor': vendor})
 
 if __name__ == '__main__':
     app.run(debug=True)
