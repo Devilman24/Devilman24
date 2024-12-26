@@ -17,6 +17,7 @@
     document.getElementById('mac-form').addEventListener('submit', function(event) {
         event.preventDefault();
         var macAddress = document.getElementById('mac_address').value;
+        console.log("Adresse MAC entrée : " + macAddress); // Message de débogage
         fetch('https://macsite-peach.vercel.app/api/lookup', {
             method: 'POST',
             headers: {
@@ -24,8 +25,12 @@
             },
             body: JSON.stringify({ mac_address: macAddress })
         })
-        .then(response => response.json())
+        .then(response => {
+            console.log("Réponse reçue : ", response); // Message de débogage
+            return response.json();
+        })
         .then(data => {
+            console.log("Données reçues : ", data); // Message de débogage
             document.getElementById('result').innerHTML = 'Constructeur : ' + data.vendor;
         })
         .catch(error => {
