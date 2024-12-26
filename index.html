@@ -6,10 +6,32 @@
 </head>
 <body>
     <h1>Recherche de Constructeur MAC</h1>
-    <form action="/lookup" method="post">
+    <form id="mac-form">
         <label for="mac_address">Adresse MAC :</label>
         <input type="text" id="mac_address" name="mac_address" required>
         <button type="submit">Rechercher</button>
     </form>
+    <div id="result"></div>
+
+    <script>
+    document.getElementById('mac-form').addEventListener('submit', function(event) {
+        event.preventDefault();
+        var macAddress = document.getElementById('mac_address').value;
+        fetch('https://ton-api-flask.vercel.app/api/lookup', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ mac_address: macAddress })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('result').innerHTML = 'Constructeur : ' + data.vendor;
+        })
+        .catch(error => {
+            console.error('Erreur:', error);
+        });
+    });
+    </script>
 </body>
 </html>
