@@ -1,42 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Recherche de Constructeur MAC</title>
-</head>
-<body>
-    <h1>Recherche de Constructeur MAC</h1>
-    <form id="mac-form">
-        <label for="mac_address">Adresse MAC :</label>
-        <input type="text" id="mac_address" name="mac_address" required>
-        <button type="submit">Rechercher</button>
-    </form>
-    <div id="result"></div>
-
-    <script>
-    document.getElementById('mac-form').addEventListener('submit', function(event) {
-        event.preventDefault();
-        var macAddress = document.getElementById('mac_address').value;
-        console.log("Adresse MAC entrée : " + macAddress); // Message de débogage
-        fetch('https://macsite-peach.vercel.app/api/lookup', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({ mac_address: macAddress })
-        })
-        .then(response => {
-            console.log("Réponse reçue : ", response); // Message de débogage
-            return response.json();
-        })
-        .then(data => {
-            console.log("Données reçues : ", data); // Message de débogage
-            document.getElementById('result').innerHTML = 'Constructeur : ' + data.vendor;
-        })
-        .catch(error => {
-            console.error('Erreur:', error);
-        });
-    });
-    </script>
-</body>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Site Indisponible</title>
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+                font-family: Arial, sans-serif;
+                background-color: #f2f2f2;
+            }
+            .message {
+                text-align: center;
+                background-color: #fff;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+            .message h1 {
+                color: #333;
+            }
+            .message p {
+                color: #666;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="message">
+            <h1>Site Indisponible</h1>
+            <p>Le site est indisponible pour des raisons personnelles.</p>
+        </div>
+    </body>
 </html>
