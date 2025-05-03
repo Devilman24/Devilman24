@@ -47,10 +47,10 @@ class CyberProfile:
   <a href="https://twitter.com/YourHandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YourProfile" target="_blank">
+  <a href="https://linkedin.com/in/devilman24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@protonmail.com">
+  <a href="mailto:abstractdiamond@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
