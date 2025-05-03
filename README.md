@@ -68,7 +68,10 @@ class CyberProfile:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilman24&theme=radical" width="400"/>
 </p>
 ```
+
 Python        ████████████████████░░░░ 90%
+
 JavaScript    ██████████████░░░░░░░░░░ 70%
+
 Bash          ██████████████████░░░░░░ 85%
 
