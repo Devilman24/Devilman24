@@ -68,9 +68,7 @@ class CyberProfile:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilman24&theme=radical" width="400"/>
 </p>
 ```
+Python        ████████████████████░░░░ 90%
+JavaScript    ██████████████░░░░░░░░░░ 70%
+Bash          ██████████████████░░░░░░ 85%
 
-
-1. Add a skills progress bar?
-2. Include a certifications section?
-3. Create matching social media banners?
-4. Add a dark/light mode toggle?
