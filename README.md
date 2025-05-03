@@ -1,6 +1,4 @@
-Voici une version améliorée et professionnelle de votre bio GitHub, avec une meilleure structure et un style plus impactant :
 
-```markdown
 # 🔥 Devilman24 - Ethical Hacker & Python Developer
 
 <p align="center">
