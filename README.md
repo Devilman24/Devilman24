@@ -1,61 +1,20 @@
-# 🚀 Bienvenue sur le profil de Devilman24
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Cybersécurité+%7C+Python+%7C+Pentest;Développeur+Full-Stack+%7C+Ethical+Hacker;Innovation+%7C+Automatisation+%7C+Open+Source" alt="Titre animé" />
-</p>
 
-## 👨‍💻 À Propos de Moi
+    👋 Hi, I’m @Devilman24
 
-```python
-class Devilman24:
-    def __init__(self):
-        self.skills = {
-            'langages': ['Python', 'JavaScript', 'Bash'],
-            'cybersécurité': ['Pentest', 'OSINT', 'Forensic'],
-            'outils': ['Metasploit', 'Burp Suite', 'Wireshark'],
-            'passions': ['Reverse Engineering', 'CTF', 'DevOps']
-        }
-        
-    def motto(self):
-        return "Codeur en quête d'un monde plus sécurisé, un projet à la fois"
+    👀 I’m interested about cyber Developer with a passion for cyber (pentest). I am always on the lookout for new challenges and interesting projects. Do not hesitate to contact me to collaborate!
 
-🔥 Mes Projets Récents
-Projet	Description	Technologies
-DiamondXRay	Outil de décodage multi-couches	Python 3.8+
-CTF Toolkit	Collection de scripts pour CTFs	Python/Bash
-SecureAuth	Système d'authentification sécurisée	Flask, JWT
-🛠 Compétences Techniques
-💻 Programmation
+For now I am a python developer with experience in the field of exploitation. I like to create apps that are both functional and aesthetically pleasing. This profile will present some of my personal projects.
 
-Python
-JavaScript
-Bash
-🔐 Cybersécurité
+Codeur en quête d'un monde meilleur, un projet à la fois. J'utilise les outils du web pour construire des solutions innovantes.
 
-Metasploit
-Burp Suite
-Wireshark
-📈 Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devilman24&show_icons=true&theme=radical" alt="Stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilman24&layout=compact&theme=radical" alt="Top Langs" width="350"/> </p>
-🌍 Contact
+Specialized in web exploitation, I am comfortable with penetration tests. I am always willing to learn new technologies and improve my skills.
 
-📫 Comment me joindre :
+    👀 I’m interested about of all thing who are about sciences computer
 
-    Twitter: @Devilman24_sec
+    💞️ I’m looking to collaborate about of all thing
 
-    LinkedIn: in/devilman24
+    📫 How to reach me: Devilman on different networks
 
-    Email: devilman24@protonmail.com
+    ⚡ Fun fact: Hack
 
-💬 Disponible pour :
-
-    Collaborations sur des projets open-source
-
-    Missions de pentest
-
-    Développement d'outils de cybersécurité
-
-⚡ Fun Fact
-01101000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01110000 01101100 01100001 01101110 01100101 01110100
-# => "hack the planet" en binaire
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devilman24&label=Profile+Views&color=blueviolet&style=flat" alt="Compteur de vues" /> </p> ```
