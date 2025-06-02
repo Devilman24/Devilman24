@@ -1,9 +1,13 @@
+Voici une version améliorée et plus élégante de votre profil, en mettant l'accent sur l'esthétique et la clarté :
 
+````markdown
 # 🔥 Devilman24 - Ethical Hacker & Python Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+Penetration+Tester;Cybersecurity+Enthusiast+%7C+CTF+Player;Building+Secure+and+Elegant+Solutions" alt="Animated Header" />
 </p>
+
+---
 
 ## 🛠️ Core Expertise
 
@@ -12,7 +16,7 @@ class CyberProfile:
     def __init__(self):
         self.specialties = [
             "Web Application Penetration Testing",
-            "Security Tool Development", 
+            "Security Tool Development",
             "Vulnerability Research"
         ]
         self.tech_stack = {
@@ -23,55 +27,68 @@ class CyberProfile:
     
     def motto(self):
         return "Hacking the world to make it safer - One line of code at a time"
-```
+````
+
+---
 
 ## 🌐 About Me
 
-- 🔭 Currently working on **automated penetration testing tools** in Python
-- 🌱 Learning **advanced exploit development** and **reverse engineering**
-- 👯 Looking to collaborate on **open-source security projects**
-- 💬 Ask me about **web security, Python automation, or CTF strategies**
-- ⚡ Fun fact: **I speak binary better than French** `01001000 01101001 00100001`
+* 🔭 **Currently Working On**: Automated penetration testing tools in Python.
+* 🌱 **Learning**: Advanced exploit development and reverse engineering.
+* 👯 **Collaborating On**: Open-source security projects.
+* 💬 **Ask Me About**: Web security, Python automation, or CTF strategies.
+* ⚡ **Fun Fact**: I speak binary better than French: `01001000 01101001 00100001`.
+
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [DiamondXRay](/) | Advanced multi-format decoder | Python 3.10+ |
-| [PyPentest Toolkit](/) | Custom penetration testing framework | Python, Bash |
-| [SecureAuth](/) | JWT-based authentication system | Flask, MongoDB |
+| Project                | Description                          | Tech Stack     |
+| ---------------------- | ------------------------------------ | -------------- |
+| [DiamondXRay](#)       | Advanced multi-format decoder        | Python 3.10+   |
+| [PyPentest Toolkit](#) | Custom penetration testing framework | Python, Bash   |
+| [SecureAuth](#)        | JWT-based authentication system      | Flask, MongoDB |
 
-## 📫 How to Reach Me
+---
 
-<p align="left">
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devilman24&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilman24&theme=radical" width="400" />
+</p>
+
+---
+
+## 📊 Tech Skills
+
+```yaml
+Python:        ████████████████████░░░░ 90%
+JavaScript:    ██████████████░░░░░░░░░░ 70%
+Bash:          ██████████████████░░░░░░ 85%
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
   <a href="https://twitter.com/YourHandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/devilman24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/VotreID" target="_blank" title="Discord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/VotreID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://medium.com/@Devilman24" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:abstractdiamond@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilman24&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilman24&theme=radical" width="400"/>
-</p>
 ```
 
-Python        ████████████████████░░░░ 90%
-
-JavaScript    ██████████████░░░░░░░░░░ 70%
-
-Bash          ██████████████████░░░░░░ 85%
 
