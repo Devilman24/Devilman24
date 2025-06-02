@@ -7,25 +7,7 @@
 
 ---
 
-## 🛠️ Core Expertise
-
-      ```python
-      class CyberProfile:
-          def __init__(self):
-              self.specialties = [
-                  "Web Application Penetration Testing",
-                  "Security Tool Development",
-                  "Vulnerability Research"
-              ]
-              self.tech_stack = {
-                  'Languages': ['Python', 'JavaScript', 'Bash'],
-                  'Security Tools': ['Burp Suite', 'Metasploit', 'Nmap'],
-                  'Frameworks': ['Flask', 'Django', 'React']
-              }
-          
-          def motto(self):
-              return "Hacking the world to make it safer - One line of code at a time"
-
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 🌐 About Me
 
