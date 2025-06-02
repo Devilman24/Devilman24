@@ -1,6 +1,4 @@
-Voici une version améliorée et plus élégante de votre profil, en mettant l'accent sur l'esthétique et la clarté :
 
-````markdown
 # 🔥 Devilman24 - Ethical Hacker & Python Developer
 
 <p align="center">
