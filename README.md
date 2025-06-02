@@ -34,11 +34,12 @@
 
 ## 🚀 Featured Projects
 
-| Project                | Description                          | Tech Stack     |
-| ---------------------- | ------------------------------------ | -------------- |
-| [DiamondXRay](#)       | Advanced multi-format decoder        | Python 3.10+   |
-| [PyPentest Toolkit](#) | Custom penetration testing framework | Python, Bash   |
-| [SecureAuth](#)        | JWT-based authentication system      | Flask, MongoDB |
+| Project                | Description                                | Tech Stack     |
+| ---------------------- | ------------------------------------------ | -------------- |
+| [DiamondXRay](#)       | Advanced multi-format decoder              | Python 3.10+   |
+| [PyPentest Toolkit](#) | Custom penetration testing framework       | Python, Bash   |
+| [SecureAuth](#)        | JWT-based authentication system            | Flask, MongoDB |
+| [Persistence](#)       | Advanced script execution and automation...| Bash, Cron     |
 
 ---
 
