@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+pentester;Ethical+Hackers+%7C+CTF+Player;Creating+Secure+%7C+Elegant+Solutions;System+administrator+%7C+Cybersecurity+writer" alt="Animated Header" />
 </p>
 <p align="center">
-  <img src="https://github.com/Devilman24/Devilman24/yeux.JPEG" alt="Banner Image" />
+  <img src=["https://github.com/Devilman24/Devilman24/yeux.JPEG](https://github.com/Devilman24/Devilman24/blob/main/yeux.JPEG)" alt="Banner Image" />
 </p>
 
 
