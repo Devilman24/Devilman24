@@ -9,25 +9,23 @@
 
 ## 🛠️ Core Expertise
 
-```python
-        class CyberProfile:
-            def __init__(self):
-                self.specialties = [
-                    "Web Application Penetration Testing",
-                    "Security Tool Development",
-                    "Vulnerability Research"
-                ]
-                self.tech_stack = {
-                    'Languages': ['Python', 'JavaScript', 'Bash'],
-                    'Security Tools': ['Burp Suite', 'Metasploit', 'Nmap'],
-                    'Frameworks': ['Flask', 'Django', 'React']
-                }
-            
-            def motto(self):
-                return "Hacking the world to make it safer - One line of code at a time"
-````
+      ```python
+      class CyberProfile:
+          def __init__(self):
+              self.specialties = [
+                  "Web Application Penetration Testing",
+                  "Security Tool Development",
+                  "Vulnerability Research"
+              ]
+              self.tech_stack = {
+                  'Languages': ['Python', 'JavaScript', 'Bash'],
+                  'Security Tools': ['Burp Suite', 'Metasploit', 'Nmap'],
+                  'Frameworks': ['Flask', 'Django', 'React']
+              }
+          
+          def motto(self):
+              return "Hacking the world to make it safer - One line of code at a time"
 
----
 
 ## 🌐 About Me
 
