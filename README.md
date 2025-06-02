@@ -36,7 +36,7 @@
 
 | Project                | Description                                | Tech Stack     |
 | ---------------------- | ------------------------------------------ | -------------- |
-| [DiamondXRay](#)       | Advanced multi-format decoder              | Python 3.10+   |
+| [DiamondXRay](https://github.com/Devilman24/DiamondXRay)       | Advanced multi-format decoder              | Python 3.10+   |
 | [PyPentest Toolkit](#) | Custom penetration testing framework       | Python, Bash   |
 | [SecureAuth](#)        | JWT-based authentication system            | Flask, MongoDB |
 | [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
