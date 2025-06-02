@@ -2,7 +2,7 @@
 # 🔥 Devilman24 - Ethical Hacker & Python Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+pentester;Ethical+Hackers+%7C+CTF+Player;Creating+Secure+%7C+Elegant+Solutions" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+pentester;Ethical+Hackers+%7C+CTF+Player;Creating+Secure+%7C+Elegant+Solutions;System+administrator+%7C+Cybersecurity+Writer" alt="Animated Header" />
 </p>
 
 
