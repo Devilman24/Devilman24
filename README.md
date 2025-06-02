@@ -20,7 +20,7 @@
 - **Frameworks**: Flask, Django, React
 
 ### ✨ Motto
-> *Hacking the world to make it safer - One line of code at a time*
+> *My goal is to turn everything off 🎭!*
 
 ## 🌐 About Me
 
