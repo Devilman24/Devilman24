@@ -45,6 +45,7 @@
 | [PyPentest Toolkit](#) | Custom penetration testing framework       | Python, Bash   |
 | [SecureAuth](#)        | JWT-based authentication system            | Flask, MongoDB |
 | [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
+| [Persistence](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
 
 ---
 
