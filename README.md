@@ -42,10 +42,9 @@
 | Project                | Description                                | Tech Stack     |
 | ---------------------- | ------------------------------------------ | -------------- |
 | [DiamondXRay](https://github.com/Devilman24/DiamondXRay)       | Advanced multi-format decoder              | Python 3.10+   |
-| [PyPentest Toolkit](#) | Custom penetration testing framework       | Python, Bash   |
-| [SecureAuth](#)        | JWT-based authentication system            | Flask, MongoDB |
 | [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
-| [Persistence](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
+| [Evil_Keylogger-](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
+| [DiamondNet](https://github.com/Devilman24/DiamondNet)       | BruteForce| Python 3.10+    |
 
 ---
 
