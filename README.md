@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=186&color=gradient&text=%20🔥%20Devilman24&fontAlignY=47&fontAlign=50&section=footer)" alt="Footer"/>
+</p>
 
-# 🔥 Devilman24 - Ethical Hacker & Python Developer
+#  Ethical Hacker & Python Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+pentester;Ethical+Hacker+%7C+CTF+Player;Creating+Secure+%7C+Elegant+Solutions;System+administrator+%7C+Cybersecurity+writer" alt="Animated Header" /
