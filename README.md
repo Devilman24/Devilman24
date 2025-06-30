@@ -53,6 +53,7 @@
 | [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
 | [Evil_Keylogger-](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
 | [DiamondNet](https://github.com/Devilman24/DiamondNet)       | BruteForce| Python 3.10+    |
+| [Diamond-Smash](https://github.com/Devilman24/Diamond-Smash)       | GAME| C++ 14.2.0   |
 
 ---
 
@@ -71,9 +72,8 @@
 Python:        ████████████████████░░░░ 90%
 JavaScript:    ██████████████░░░░░░░░░░ 70%
 Bash:          ██████████████████░░░░░░ 85%
+C++:           ██████████████░░░░░░░░░░ 70%
 ```
-
-
 
 ## 📫 Connect With Me
 
