@@ -49,11 +49,12 @@
 
 | Project                | Description                                | Tech Stack     |
 | ---------------------- | ------------------------------------------ | -------------- |
-| [DiamondXRay](https://github.com/Devilman24/DiamondXRay)       | Advanced multi-format decoder              | Python 3.10+   |
-| [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
-| [Evil_Keylogger-](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
 | [DiamondNet](https://github.com/Devilman24/DiamondNet)       | BruteForce| Python 3.10+    |
+| [DiamondSecur](https://github.com/Devilman24/DiamondSecur) | Advanced Linux Security Scanner & Threat Hunter | Python 3.10+ |
+| [DiamondXRay](https://github.com/Devilman24/DiamondXRay)       | Advanced multi-format decoder              | Python 3.10+   |
 | [Diamond-Smash](https://github.com/Devilman24/Diamond-Smash)       | GAME| C++ 14.2.0   |
+| [Evil_Keylogger-](https://github.com/Devilman24/Evil_Keylogger-)       | Keylogger| Python 3.10+    |
+| [Persistence](https://github.com/Devilman24/Persistence)       | Advanced script execution and automation...| Bash, Cron     |
 
 ---
 
