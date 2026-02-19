@@ -90,7 +90,7 @@ C++:           ██████████████░░░░░░░�
   <a href="https://medium.com/@Devilman24" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:abstractdiamond@protonmail.com">
+  <a href="mailto:billy.devalue912@passinbox.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
