@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Python+Developer+%7C+pentester;Ethical+Hacker+%7C+CTF+Player;Creating+Secure+%7C+Elegant+Solutions;System+administrator+%7C+Cybersecurity+writer" alt="Animated Header" /
 </p>
 <p align="center">
-  <img src="https://github.com/Devilman24/Devilman24/blob/498b5ae1b8fbe93eb3b40f77a1e5f9626bde1cce/yeux.JPEG" alt="Banner Image" width="400" />
+  <img src="https://github.com/Devilman24/Devilman24/blob/498b5ae1b8fbe93eb3b40f77a1e5f9626bde1cce/git.JPEG" alt="Banner Image" width="400" />
 </p>
 
 
